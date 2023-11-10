@@ -40,7 +40,7 @@ CREATE TABLE `oradores` (
 
 LOCK TABLES `oradores` WRITE;
 /*!40000 ALTER TABLE `oradores` DISABLE KEYS */;
-INSERT INTO `oradores` VALUES (1,'Israel','Montenegro','montenegro.isra@gmail.com','Ciclos For y While','2023-11-09 23:30:00'),(2,'Rick','Sanchez','rickSanchez@rym.com','Heist Con','2020-10-14 01:18:05'),(3,'Morty','Smith','morty_smith@rym.com','Supervivencia en el Multiverso','2020-10-06 23:00:00'),(4,'Jose de','San Martín','donjose@libertadores.com','Liberar espacio en disco','2023-06-26 00:00:00'),(5,'Clark','Kent','jclarkent@dailyplanet.com','Kriptonita','2023-11-16 00:00:00'),(6,'Peter','Parker','peterparker@dailybugle.com','Como Subir al techo','2023-11-15 16:30:00'),(7,'Lionel','Messi','liomessi@argentineselection.com','GOAT','2023-11-21 01:00:00'),(8,'Bill','Gates','bgates@microsoft.com','Codigos Ocultos en Windows','2023-11-11 01:00:00'),(9,'Homero','Simpson','hsimpson@alegrianuclear.com','Como Preparar una Rosquilla','2023-11-25 22:00:00'),(10,'Orador','Desconocido','desconocido@desconocido.com','Conociendo lo desconocido','2023-11-25 21:00:00');
+INSERT INTO `oradores` VALUES (1,'Israel','Montenegro','montenegro.isra@gmail.com','Ciclos For y While','2023-11-09 23:30:00'),(2,'Rick','Sanchez','rickSanchez@rym.com','Heist Con','2020-10-14 01:18:05'),(3,'Morty','Smith','morty_smith@rym.com','Supervivencia en el Multiverso','2020-10-06 23:00:00'),(4,'Jerry','Smith','jsmith5152@rym.com','Como Conseguir Empleo','2023-06-26 00:00:00'),(5,'Clark','Kent','jclarkent@dailyplanet.com','Kriptonita','2023-11-16 00:00:00'),(6,'Peter','Parker','peterparker@dailybugle.com','Curso de Fotografía','2023-11-15 16:30:00'),(7,'Lionel','Messi','liomessi@argentineselection.com','GOAT','2023-11-21 01:00:00'),(8,'Bill','Gates','bgates@microsoft.com','Codigos Ocultos en Windows','2023-11-11 01:00:00'),(9,'Homero','Simpson','hsimpson@alegrianuclear.com','Como Preparar una Rosquilla','2023-11-25 22:00:00'),(10,'Orador','Desconocido','desconocido@desconocido.com','Conociendo lo desconocido','2023-11-25 21:00:00');
 /*!40000 ALTER TABLE `oradores` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -53,4 +53,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-11-09 21:17:11
+-- Dump completed on 2023-11-09 21:29:07
